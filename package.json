@@ -1,0 +1,23 @@
+{
+  "name": "minichallenge-flood-fill-node",
+  "version": "1.0.0",
+  "description": "Node code for Flood Fill.",
+  "main": "dist/index.js",
+  "files": [
+    "dist/index.js"
+  ],
+  "devDependencies": {
+    "jest": "^27.5.1"
+  },
+  "scripts": {
+    "test": "jest",
+    "coverage": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angarg12/minichallenge-flood-fill-node.git"
+  },
+  "author": "Andres Garcia Garcia",
+  "license": "GPL 3",
+  "homepage": "https://github.com/minichallenge-flood-fill-node#readme"
+}
